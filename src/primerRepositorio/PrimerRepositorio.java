@@ -8,6 +8,7 @@ public class PrimerRepositorio {
 		System.out.println("\nCreado por Carlos Fernández Díez");
 		
 		System.out.println("Hola Carlos");
+		System.out.println("Te falta una papa pal kilo");
 
 	}
 
