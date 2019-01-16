@@ -7,7 +7,7 @@ public class PrimerRepositorio {
 		System.out.println("Primer repositorio para GitHub");
 		System.out.println("\nCreado por Carlos Fernández Díez");
 		
-		System.out.println("SEXY BITCH");
+		System.out.println("Hola Carlos");
 
 	}
 
